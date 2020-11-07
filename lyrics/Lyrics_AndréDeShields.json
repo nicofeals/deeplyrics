@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1246659",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/aceef178e791dcd618e018833fb2213e.1000x667x1.jpg",
+ "id": 1246659,
+ "image_url": "https://images.genius.com/da76a7eb20ded3eedc7c52d49041b2f4.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Andr\u00e9 De Shields",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Andre-de-shields",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5334939,
+  "annotator_login": "MezzoSherri",
+  "api_path": "/referents/12928035",
+  "classification": "needs_exegesis",
+  "fragment": "Andr\u00e9 De Shields",
+  "id": 12928035,
+  "is_description": true,
+  "path": "/12928035/Andre-de-shields/Andre-de-shields",
+  "range": {
+   "content": "Andr\u00e9 De Shields"
+  },
+  "song_id": null,
+  "url": "https://genius.com/12928035/Andre-de-shields/Andre-de-shields",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1246659",
+   "context": null,
+   "id": 1246659,
+   "image_url": "https://images.genius.com/da76a7eb20ded3eedc7c52d49041b2f4.1000x1000x1.jpg",
+   "link_title": "Andr\u00e9 De Shields",
+   "title": "Andr\u00e9 De Shields",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Andre-de-shields"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/12928035",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 12928035,
+    "pinned": false,
+    "share_url": "https://genius.com/12928035",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/12928035/Andre-de-shields/Andre-de-shields",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5334939",
+       "avatar": {
+        "tiny": {
+         "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/20914420_10211826354386842_1111003584961947946_n.jpg?oh=e49e02cc69375c1dad0a14110b0a50ab&oe=5A8033A3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/20914420_10211826354386842_1111003584961947946_n.jpg?oh=e49e02cc69375c1dad0a14110b0a50ab&oe=5A8033A3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/20914420_10211826354386842_1111003584961947946_n.jpg?oh=e49e02cc69375c1dad0a14110b0a50ab&oe=5A8033A3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/20914420_10211826354386842_1111003584961947946_n.jpg?oh=e49e02cc69375c1dad0a14110b0a50ab&oe=5A8033A3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/jb3zwmemd9k",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5334939,
+       "iq": 716,
+       "login": "MezzoSherri",
+       "name": "MezzoSherri",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/MezzoSherri",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

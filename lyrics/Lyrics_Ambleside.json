@@ -1,0 +1,4651 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/630166",
+ "description": {
+  "plain": "Ambleside are leading the charge of melodic hardcore in the Adelaide scene. After releasing their self produced debut ep \u2018New Tide\u2019, the band were lavished with praise from Australian heavy acts."
+ },
+ "facebook_name": "amblesidehc",
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+ "id": 630166,
+ "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Ambleside",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Ambleside",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4239966,
+  "annotator_login": "illkarah",
+  "api_path": "/referents/8514886",
+  "classification": "unreviewed",
+  "fragment": "Ambleside",
+  "id": 8514886,
+  "is_description": true,
+  "path": "/8514886/Ambleside/Ambleside",
+  "range": {
+   "content": "Ambleside"
+  },
+  "song_id": null,
+  "url": "https://genius.com/8514886/Ambleside/Ambleside",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/630166",
+   "context": null,
+   "id": 630166,
+   "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+   "link_title": "Ambleside",
+   "title": "Ambleside",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ambleside"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/8514886",
+    "body": {
+     "plain": "Ambleside are leading the charge of melodic hardcore in the Adelaide scene. After releasing their self produced debut ep \u2018New Tide\u2019, the band were lavished with praise from Australian heavy acts."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 8514886,
+    "pinned": false,
+    "share_url": "https://genius.com/8514886",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/8514886/Ambleside/Ambleside",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4239966",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wu67sdzz8kc",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4239966,
+       "iq": 111923,
+       "login": "illkarah",
+       "name": "illkarah",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/illkarah",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2406705",
+   "apple_music_id": "1129366952",
+   "apple_music_player_url": "https://genius.com/songs/2406705/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2406705' class='rg_embed_link' data-song-id='2406705'>Read <a href='https://genius.com/Ambleside-wash-away-lyrics'>\u201cWash Away\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/2406705/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Wash Away by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "id": 2406705,
+   "lyrics_owner_id": 321054,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-wash-away-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-01-13",
+   "release_date_for_display": "January 13, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7135
+   },
+   "title": "Wash Away",
+   "title_with_featured": "Wash Away",
+   "url": "https://genius.com/Ambleside-wash-away-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/165018",
+    "cover_art_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+    "full_title": "Shape Me by Ambleside",
+    "id": 165018,
+    "name": "Shape Me",
+    "url": "https://genius.com/albums/Ambleside/Shape-me",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 321054,
+    "annotator_login": "yungdirty",
+    "api_path": "/referents/8514887",
+    "classification": "needs_exegesis",
+    "fragment": "Wash Away",
+    "id": 8514887,
+    "is_description": true,
+    "path": "/8514887/Ambleside-wash-away/Wash-away",
+    "range": {
+     "content": "Wash Away"
+    },
+    "song_id": 2406705,
+    "url": "https://genius.com/8514887/Ambleside-wash-away/Wash-away",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2406705",
+     "client_timestamps": {
+      "updated_by_human_at": 1472049440,
+      "lyrics_updated_at": 1452696056
+     },
+     "context": "Ambleside",
+     "id": 2406705,
+     "image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+     "link_title": "Wash Away by\u00a0Ambleside",
+     "title": "Wash Away",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-wash-away-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8514887",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 8514887,
+      "pinned": false,
+      "share_url": "https://genius.com/8514887",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8514887/Ambleside-wash-away/Wash-away",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/321054",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z9jefej51jo",
+         "human_readable_role_for_display": "Editor",
+         "id": 321054,
+         "iq": 1344726,
+         "login": "yungdirty",
+         "name": "yungdirty",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yungdirty",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=sSU-DgYJbXY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Bottle up the pain\nLet it rain and wash away\nLet it carry you to a better place\nDon\u2019t forget my name\nMy mind often wonders back\nTo the kids that we used to be\nWhat\u2019s left?\nNothing but memories\nA shell of who you used to be\nIs this a consequence of never chasing dreams?\nSlowly you\u2019re sinking\nLocked in a cage, no way to breathe\nYou bottle up the pain\nDid it have to be this way?\nLet it rain and wash away\nI\u2019m reaching out and its all for you\nBottle up the pain\nLet it rain and wash away\nLet it carry you to a better place\nDon\u2019t forget my name\nI\u2019m wishing for a change that never came\nI'll rewrite the past so you will never be replaced\nAnd I know your hands were tied\nYour fate was set, put on your bravest smile\nNow do we have to look back?\nI\u2019m reaching out and its all for you\nI still remember\nI remember the night you called (it's all for you)\nI felt the warmth in your voice\nYou were happy, I was happy for you (it's all for you)\nI've come to terms with letting go\nHad time to think things through\nDear friend, I'll live this life for two\nAnd I'll sing this song for you\n(All for you) I'm reaching out and it's all for you\n(All for you) I'm reaching out and it's all for you\nBottle up the pain\nLet it rain and wash away\nLet it carry you to a better place\nDon\u2019t forget my name"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2844796",
+   "apple_music_id": "1129366942",
+   "apple_music_player_url": "https://genius.com/songs/2844796/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2844796' class='rg_embed_link' data-song-id='2844796'>Read <a href='https://genius.com/Ambleside-good-enough-lyrics'>\u201cGood Enough?\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/2844796/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Good Enough? by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "id": 2844796,
+   "lyrics_owner_id": 321054,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-good-enough-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-08-26",
+   "release_date_for_display": "August 26, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Good Enough?",
+   "title_with_featured": "Good Enough?",
+   "url": "https://genius.com/Ambleside-good-enough-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/165018",
+    "cover_art_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+    "full_title": "Shape Me by Ambleside",
+    "id": 165018,
+    "name": "Shape Me",
+    "url": "https://genius.com/albums/Ambleside/Shape-me",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 321054,
+    "annotator_login": "yungdirty",
+    "api_path": "/referents/10287048",
+    "classification": "needs_exegesis",
+    "fragment": "Good Enough?",
+    "id": 10287048,
+    "is_description": true,
+    "path": "/10287048/Ambleside-good-enough/Good-enough",
+    "range": {
+     "content": "Good Enough?"
+    },
+    "song_id": 2844796,
+    "url": "https://genius.com/10287048/Ambleside-good-enough/Good-enough",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2844796",
+     "client_timestamps": {
+      "updated_by_human_at": 1472158215,
+      "lyrics_updated_at": 1472158215
+     },
+     "context": "Ambleside",
+     "id": 2844796,
+     "image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+     "link_title": "Good Enough? by\u00a0Ambleside",
+     "title": "Good Enough?",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-good-enough-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10287048",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10287048,
+      "pinned": false,
+      "share_url": "https://genius.com/10287048",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10287048/Ambleside-good-enough/Good-enough",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/321054",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z9jefej51jo",
+         "human_readable_role_for_display": "Editor",
+         "id": 321054,
+         "iq": 1344726,
+         "login": "yungdirty",
+         "name": "yungdirty",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yungdirty",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=3JGhYczbMpw"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Broken bones and shattered teeth\nMemories still haunting me, the past never changes\nHolding faith within my hands, all alone inside our heads\nWill this pain last forever?\nNever being good enough is all we\u2019ve ever known, all we\u2019re ever told\nIt\u2019s the melancholy in our soul lost and alone, in a place so far from home\n\nJust a kid with nowhere to go, nowhere to run, no one to hold\nAnd it seems, no matter where we go this empty feeling will always be our home. Never being good is all we\u2019ve ever known, it just goes to show that apologies are nothing more than empty words\n\nNever being good enough is all we\u2019ve ever known, all we\u2019re ever told\nIt\u2019s the melancholy in our soul lost and alone, in a place so far from home\nBroken bones and shattered teeth\nMemories still haunting me, the past never changes\n\nAll alone again inside my head, melancholy haunting me\nThis won\u2019t last forever\n\nNever being good enough is all we\u2019ve ever known, all we\u2019re ever told\nIt\u2019s the melancholy in our soul lost and alone, in a place so far from home\nBroken bones and shattered teeth\nMemories still haunting me, the past never changes\nHolding faith within my hands, all alone inside our heads\nThis won\u2019t last forever"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2814745",
+   "apple_music_id": "1129367175",
+   "apple_music_player_url": "https://genius.com/songs/2814745/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2814745' class='rg_embed_link' data-song-id='2814745'>Read <a href='https://genius.com/Ambleside-dear-mother-lyrics'>\u201cDear Mother\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/2814745/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Dear Mother by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "id": 2814745,
+   "lyrics_owner_id": 321054,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-dear-mother-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-07-06",
+   "release_date_for_display": "July 6, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dear Mother",
+   "title_with_featured": "Dear Mother",
+   "url": "https://genius.com/Ambleside-dear-mother-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/165018",
+    "cover_art_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+    "full_title": "Shape Me by Ambleside",
+    "id": 165018,
+    "name": "Shape Me",
+    "url": "https://genius.com/albums/Ambleside/Shape-me",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 321054,
+    "annotator_login": "yungdirty",
+    "api_path": "/referents/10053281",
+    "classification": "needs_exegesis",
+    "fragment": "Dear Mother",
+    "id": 10053281,
+    "is_description": true,
+    "path": "/10053281/Ambleside-dear-mother/Dear-mother",
+    "range": {
+     "content": "Dear Mother"
+    },
+    "song_id": 2814745,
+    "url": "https://genius.com/10053281/Ambleside-dear-mother/Dear-mother",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2814745",
+     "client_timestamps": {
+      "updated_by_human_at": 1472049447,
+      "lyrics_updated_at": 1467845838
+     },
+     "context": "Ambleside",
+     "id": 2814745,
+     "image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+     "link_title": "Dear Mother by\u00a0Ambleside",
+     "title": "Dear Mother",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-dear-mother-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10053281",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10053281,
+      "pinned": false,
+      "share_url": "https://genius.com/10053281",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10053281/Ambleside-dear-mother/Dear-mother",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/321054",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z9jefej51jo",
+         "human_readable_role_for_display": "Editor",
+         "id": 321054,
+         "iq": 1344726,
+         "login": "yungdirty",
+         "name": "yungdirty",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yungdirty",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=IJLLS6jvIp0"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Dear mother, things are changing\nAre you beginning to lose hope?\nApproaching for so long, how will we stay afloat?\nI've been holding on to my breath\nBut I'm starting to cave in\nAnd you're starting to realize\nThat we're sick, that we're broken\nWe both act tough, but were so soft spoken\nYou thought we were stronger than you\nI hope you know I could never, I could never blame you\nBut all my life have I been taught to run away?\nTo block out the pain\nWe don't have to fade away\nBlock out the pain\nWith anything, with everything\nWith all the pills you were swallowing\nThe endless times you'd drive away\nJust hoping you'd forget the pain\nBut the same blood runs through my veins\nBut the same blood runs through my veins\nBut the same blood runs through my veins\nAnd now I know, we don't have to fade away"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2844790",
+   "apple_music_id": "1129366956",
+   "apple_music_player_url": "https://genius.com/songs/2844790/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2844790' class='rg_embed_link' data-song-id='2844790'>Read <a href='https://genius.com/Ambleside-wasted-lyrics'>\u201cWasted\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/2844790/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Wasted by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "id": 2844790,
+   "lyrics_owner_id": 321054,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-wasted-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Wasted",
+   "title_with_featured": "Wasted",
+   "url": "https://genius.com/Ambleside-wasted-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/165018",
+    "cover_art_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+    "full_title": "Shape Me by Ambleside",
+    "id": 165018,
+    "name": "Shape Me",
+    "url": "https://genius.com/albums/Ambleside/Shape-me",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 321054,
+    "annotator_login": "yungdirty",
+    "api_path": "/referents/10287011",
+    "classification": "needs_exegesis",
+    "fragment": "Wasted",
+    "id": 10287011,
+    "is_description": true,
+    "path": "/10287011/Ambleside-wasted/Wasted",
+    "range": {
+     "content": "Wasted"
+    },
+    "song_id": 2844790,
+    "url": "https://genius.com/10287011/Ambleside-wasted/Wasted",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2844790",
+     "client_timestamps": {
+      "updated_by_human_at": 1472157972,
+      "lyrics_updated_at": 1472157932
+     },
+     "context": "Ambleside",
+     "id": 2844790,
+     "image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+     "link_title": "Wasted by\u00a0Ambleside",
+     "title": "Wasted",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-wasted-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10287011",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10287011,
+      "pinned": false,
+      "share_url": "https://genius.com/10287011",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10287011/Ambleside-wasted/Wasted",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/321054",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z9jefej51jo",
+         "human_readable_role_for_display": "Editor",
+         "id": 321054,
+         "iq": 1344726,
+         "login": "yungdirty",
+         "name": "yungdirty",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yungdirty",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ABwsExjW2RQ"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Another day spent wasted, another year passed me by\nListening to old sad songs to get me through the night\nStaring at the walls, wondering where I went wrong\nMy last light just burned out and I\u2019m left with the darkness again\nBut still, I can\u2019t seem to find importance in anything\nI\u2019m still waiting for the day when I\u2019ll fit into my own skin\nNow I\u2019m even struggling to connect with my own friends\nUntil I make a change, the weight I carry will just soak in\nI\u2019m getting old, my life\u2019s been wasted\nAnother bottle to my mouth, the days aren\u2019t changing\nI\u2019m getting old, my life\u2019s been wasted\nAnother bottle to my mouth, it echoes and bleeds out\nI\u2019m fed up of drowning in my own self-pity\nTired, I\u2019m useless, fragile and worthless\nAm I slowly drowning? I keep telling myself I am\nAm I slowly drowning? I keep telling myself I am\nAnother day spent wasted, another year passed me by\nListening to old sad songs to get me through the night\nStaring at the walls, wondering where I went wrong\nMy last light just burned out, it\u2019s just me in the darkness again\nIt\u2019s just me in the darkness again\nIt echoes and bleeds out\nIt surrounds me\nIt echoes and bleeds out\nAnd holds me down\nIt echoes and bleeds out\nIt surrounds me\nIt echoes and bleeds out\nI\u2019m getting old, my life\u2019s been wasted\nAnother bottle to my mouth, the days aren\u2019t changing\nI\u2019m getting old, my life\u2019s been wasted\nAnother bottle to my mouth, it echoes and bleeds out\nIt echoes and bleeds out"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3115175",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3115175/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3115175' class='rg_embed_link' data-song-id='3115175'>Read <a href='https://genius.com/Ambleside-tired-eyes-annotated'>\u201cTired Eyes\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3115175/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Tired Eyes by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "id": 3115175,
+   "lyrics_owner_id": 4239966,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-tired-eyes-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tired Eyes",
+   "title_with_featured": "Tired Eyes",
+   "url": "https://genius.com/Ambleside-tired-eyes-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/349050",
+    "cover_art_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+    "full_title": "New Tide by Ambleside",
+    "id": 349050,
+    "name": "New Tide",
+    "url": "https://genius.com/albums/Ambleside/New-tide",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4239966,
+    "annotator_login": "illkarah",
+    "api_path": "/referents/11977084",
+    "classification": "needs_exegesis",
+    "fragment": "Tired Eyes",
+    "id": 11977084,
+    "is_description": true,
+    "path": "/11977084/Ambleside-tired-eyes/Tired-eyes",
+    "range": {
+     "content": "Tired Eyes"
+    },
+    "song_id": 3115175,
+    "url": "https://genius.com/11977084/Ambleside-tired-eyes/Tired-eyes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3115175",
+     "client_timestamps": {
+      "updated_by_human_at": 1496841400,
+      "lyrics_updated_at": 1496841400
+     },
+     "context": "Ambleside",
+     "id": 3115175,
+     "image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+     "link_title": "Tired Eyes by\u00a0Ambleside",
+     "title": "Tired Eyes",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-tired-eyes-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11977084",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11977084,
+      "pinned": false,
+      "share_url": "https://genius.com/11977084",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11977084/Ambleside-tired-eyes/Tired-eyes",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4239966",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wu67sdzz8kc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4239966,
+         "iq": 111923,
+         "login": "illkarah",
+         "name": "illkarah",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/illkarah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QWdkh6rH61k"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Not so often now do I feel the cold that\u2019s so familiar,\nCome creeping back on lonely nights.\nIt feels as if I\u2019m slowly taking control.\nBut then again, who knows?\nAm I even in control?\nOver and over again,\nWhy is it that when I\u2019m moving forward,\nI\u2019m pulled into the wrong direction?\nAs I lose myself, I start to trace my steps.\nI can\u2019t do this again.\nI\u2019m fucking sick of feeling like I need to prove myself,\nWhat is it that I\u2019m even trying to prove?\nI need some closure, I need to move forward.\nI need to prove to myself I\u2019m not that fragile boy I once was.\nBut your name is pulling me down.\nWith the weight of four years, pulling me down.\nI thought I was past this.\nBut surely, I\u2019m not so sure.\nI thought I was past this.\nI thought I was past this.\nI want to throw it away, but it can\u2019t end this way.\nI thought I\u2019d broken these chains, but it will always remain.\nNow rest my tired eyes.\nI need a rest from my fucking mind.\nI\u2019m fucking sick of feeling like I need to prove myself,\nWhat is it that I\u2019m even trying to prove?\nI need some closure, I need to move forward.\nI need a rest from my fucking mind.\nI\u2019m fucking sick of feeling like I need to prove myself.\nIt\u2019s time to rest my tired eyes."
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3642716",
+   "apple_music_id": "1370996305",
+   "apple_music_player_url": "https://genius.com/songs/3642716/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3642716' class='rg_embed_link' data-song-id='3642716'>Read <a href='https://genius.com/Ambleside-blur-lyrics'>\u201cBlur\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3642716/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Blur by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/993db88a64bf805821ba54580fd3d9b7.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/993db88a64bf805821ba54580fd3d9b7.600x600x1.jpg",
+   "id": 3642716,
+   "lyrics_owner_id": 321054,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-blur-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2018-04-10",
+   "release_date_for_display": "April 10, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/993db88a64bf805821ba54580fd3d9b7.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/993db88a64bf805821ba54580fd3d9b7.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Blur",
+   "title_with_featured": "Blur",
+   "url": "https://genius.com/Ambleside-blur-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 321054,
+    "annotator_login": "yungdirty",
+    "api_path": "/referents/14293129",
+    "classification": "needs_exegesis",
+    "fragment": "Blur",
+    "id": 14293129,
+    "is_description": true,
+    "path": "/14293129/Ambleside-blur/Blur",
+    "range": {
+     "content": "Blur"
+    },
+    "song_id": 3642716,
+    "url": "https://genius.com/14293129/Ambleside-blur/Blur",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3642716",
+     "client_timestamps": {
+      "updated_by_human_at": 1525607848,
+      "lyrics_updated_at": 1523404667
+     },
+     "context": "Ambleside",
+     "id": 3642716,
+     "image_url": "https://images.genius.com/993db88a64bf805821ba54580fd3d9b7.600x600x1.jpg",
+     "link_title": "Blur by\u00a0Ambleside",
+     "title": "Blur",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-blur-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14293129",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14293129,
+      "pinned": false,
+      "share_url": "https://genius.com/14293129",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14293129/Ambleside-blur/Blur",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/321054",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z9jefej51jo",
+         "human_readable_role_for_display": "Editor",
+         "id": 321054,
+         "iq": 1344726,
+         "login": "yungdirty",
+         "name": "yungdirty",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yungdirty",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=p0jeBen5KsY"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Slipping through the cracks\nStab myself in the back\nMotivation lacks\nTo keep your feet down on the tracks\nLost your purpose down the rabbit hole\nThe bags under my eyes don\u2019t have much room to hold\nMore baggage, can you stand it?\nIs your carriage crash landing again?\nThis cloud ran out of rain\nI want to feel something\nEven if its pain\nDoes it all feel the same?\nLeft or right lane\nWe\u2019re swerving the wrong way\nYou\u2019re digging deeper\nCollision\nToward the keeper\nBlurred vision\nYou\u2019re digging deeper\nDecisions\nI\u2019m digging deeper\nDivision\nLost your purpose down the rabbit hole\nThe bags under my eyes don\u2019t have much room to hold\nMore baggage, can you stand it?\nIs your carriage crash landing again?\nThis cloud ran out of rain\nI want to feel something\nEven if its pain\nDoes it all feel the same?\nLeft or right lane\nWe\u2019re swerving the wrong way\nWe\u2019re always the wrong way\nYou take a hold of me\nLeft your soul for me\nFall asleep and\nFall behind and"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2844052",
+   "apple_music_id": "1129367173",
+   "apple_music_player_url": "https://genius.com/songs/2844052/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2844052' class='rg_embed_link' data-song-id='2844052'>Read <a href='https://genius.com/Ambleside-forgive-me-pt-1-lyrics'>\u201cForgive Me Pt. 1\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/2844052/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Forgive Me Pt. 1 by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "id": 2844052,
+   "lyrics_owner_id": 321054,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-forgive-me-pt-1-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2016-08-24",
+   "release_date_for_display": "August 24, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Forgive Me Pt. 1",
+   "title_with_featured": "Forgive Me Pt. 1",
+   "url": "https://genius.com/Ambleside-forgive-me-pt-1-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/165018",
+    "cover_art_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+    "full_title": "Shape Me by Ambleside",
+    "id": 165018,
+    "name": "Shape Me",
+    "url": "https://genius.com/albums/Ambleside/Shape-me",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 321054,
+    "annotator_login": "yungdirty",
+    "api_path": "/referents/10280265",
+    "classification": "needs_exegesis",
+    "fragment": "Forgive Me Pt. 1",
+    "id": 10280265,
+    "is_description": true,
+    "path": "/10280265/Ambleside-forgive-me-pt-1/Forgive-me-pt-1",
+    "range": {
+     "content": "Forgive Me Pt. 1"
+    },
+    "song_id": 2844052,
+    "url": "https://genius.com/10280265/Ambleside-forgive-me-pt-1/Forgive-me-pt-1",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2844052",
+     "client_timestamps": {
+      "updated_by_human_at": 1472049408,
+      "lyrics_updated_at": 1472049380
+     },
+     "context": "Ambleside",
+     "id": 2844052,
+     "image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+     "link_title": "Forgive Me Pt. 1 by\u00a0Ambleside",
+     "title": "Forgive Me Pt. 1",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-forgive-me-pt-1-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10280265",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10280265,
+      "pinned": false,
+      "share_url": "https://genius.com/10280265",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10280265/Ambleside-forgive-me-pt-1/Forgive-me-pt-1",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/321054",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z9jefej51jo",
+         "human_readable_role_for_display": "Editor",
+         "id": 321054,
+         "iq": 1344726,
+         "login": "yungdirty",
+         "name": "yungdirty",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yungdirty",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=CiPQ1a-WKXg"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I look back on the years, can\u2019t pretend to forget\nA picture, lost progress, I wonder how you\u2019ve been\nYour laugh and your smile, while I'm losing sleep lost inside my head\nTell me you\u2019re passed this, it\u2019s over and you\u2019ve moved on\n\u2018Cause I can\u2019t explain why the past few years were meaningless\nForgive me, I did everything that I could\nForgive me, I wish you saw it from where I stood\nI\u2019ve read over the words that you left in my head\nA look on your face I could never forget\nI know it's been a while, I still live in denial\nNowhere to be found when you needed a friend\nCouldn\u2019t handle the pressure I started to cave in\nSo I told myself that you were fine\nTell me you\u2019re passed this, it\u2019s over and you\u2019ve moved on\n\u2018Cause I can\u2019t explain why the past few years were meaningless\nForgive me, I did everything that I could\nForgive me, I wish you saw it from where I stood\nI\u2019ve read over the words that you left inside my head\nAnd I stayed up all night trying to ease the pain, but nothing changes\nI punish myself and fall into a wretched whim\nThe guilt that burns inside my chest, the memories they freeze within\nThese empty picture frames, (I couldn\u2019t ask for your forgiveness.)\nTorturing these cold and lonely nights. (I couldn\u2019t ever apologize.)\nI can\u2019t escape. (How could I ask for your forgiveness?)\nI suffocate from outside in. (How could I ever apologize?)\nI punish myself\nI called for help, they took you away\nForgive me, please forgive me\nI punish myself with each passing day\nLet the tears fall from your eyes as you fade away"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2844795",
+   "apple_music_id": "1129367195",
+   "apple_music_player_url": "https://genius.com/songs/2844795/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2844795' class='rg_embed_link' data-song-id='2844795'>Read <a href='https://genius.com/Ambleside-free-lyrics'>\u201cFree\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/2844795/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Free by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "id": 2844795,
+   "lyrics_owner_id": 321054,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-free-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Free",
+   "title_with_featured": "Free",
+   "url": "https://genius.com/Ambleside-free-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/165018",
+    "cover_art_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+    "full_title": "Shape Me by Ambleside",
+    "id": 165018,
+    "name": "Shape Me",
+    "url": "https://genius.com/albums/Ambleside/Shape-me",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 321054,
+    "annotator_login": "yungdirty",
+    "api_path": "/referents/10287041",
+    "classification": "needs_exegesis",
+    "fragment": "Free",
+    "id": 10287041,
+    "is_description": true,
+    "path": "/10287041/Ambleside-free/Free",
+    "range": {
+     "content": "Free"
+    },
+    "song_id": 2844795,
+    "url": "https://genius.com/10287041/Ambleside-free/Free",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2844795",
+     "client_timestamps": {
+      "updated_by_human_at": 1472158143,
+      "lyrics_updated_at": 1472158143
+     },
+     "context": "Ambleside",
+     "id": 2844795,
+     "image_url": "https://images.genius.com/664ccc61adb1a22b31ff25d63f268303.960x960x1.jpg",
+     "link_title": "Free by\u00a0Ambleside",
+     "title": "Free",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-free-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10287041",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10287041,
+      "pinned": false,
+      "share_url": "https://genius.com/10287041",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10287041/Ambleside-free/Free",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/321054",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z9jefej51jo",
+         "human_readable_role_for_display": "Editor",
+         "id": 321054,
+         "iq": 1344726,
+         "login": "yungdirty",
+         "name": "yungdirty",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yungdirty",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lr2dFNw5hLw"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Blue sky, black road only three days left to go\nFalse circumstance falls from my head, leads me to this place\nNo sleep tonight, another eighteen hour drive\nBut luckily it\u2019s not just me, hopeful kids we\u2019re young and free\n\nIgnite the flame and hold on for dear life\nWielding the torch of the dream burning bright\nWith such a long road to get there\n\nBlue sky, black road only two days left to go\nBeneath the stars, beside the sea, friends next to me\nSky high cliff jumps, I think it\u2019s time to get fucked up\nThe things we do just to feel alive\n\nSo we will sing, \u2018til we\u2019re the last ones standing\nSo we will sing, \u2018til we\u2019re the last ones singing\nSo we will sing, \u2018til we\u2019re the last ones breathing\nSo we will sing, No regrets will fucking reach me\n\nBlue sky, black road only one day left to go\nThe tide is calling, im still free falling\nWhen I am old, fragile, worn and beaten\nNo regrets will fucking reach me\n\nWorthwhile memories, we remain the young and free\nWe\u2019re young and free"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4878811",
+   "apple_music_id": "1478846575",
+   "apple_music_player_url": "https://genius.com/songs/4878811/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4878811' class='rg_embed_link' data-song-id='4878811'>Read <a href='https://genius.com/Ambleside-still-life-lyrics'>\u201cStill Life\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/4878811/embed.js'></script>",
+   "featured_video": true,
+   "full_title": "Still Life by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/71abe8fd42dc2e7e0ecbf7d21337c34e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/71abe8fd42dc2e7e0ecbf7d21337c34e.640x640x1.jpg",
+   "id": 4878811,
+   "lyrics_owner_id": 321054,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-still-life-lyrics",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": "2019-09-17",
+   "release_date_for_display": "September 17, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/71abe8fd42dc2e7e0ecbf7d21337c34e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/71abe8fd42dc2e7e0ecbf7d21337c34e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Still Life",
+   "title_with_featured": "Still Life",
+   "url": "https://genius.com/Ambleside-still-life-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Directed, Shot & Edited By",
+     "artists": [
+      {
+       "api_path": "/artists/1219607",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "id": 1219607,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kieran Ellis-Jones",
+       "url": "https://genius.com/artists/Kieran-ellis-jones"
+      }
+     ]
+    },
+    {
+     "label": "Ac/B Cam (Music Video)",
+     "artists": [
+      {
+       "api_path": "/artists/1953766",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "id": 1953766,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matt Caporaso",
+       "url": "https://genius.com/artists/Matt-caporaso"
+      }
+     ]
+    },
+    {
+     "label": "Lighting Tech (Music Video)",
+     "artists": [
+      {
+       "api_path": "/artists/1953765",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "id": 1953765,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Colin Griffin",
+       "url": "https://genius.com/artists/Colin-griffin"
+      }
+     ]
+    },
+    {
+     "label": "Tracked By",
+     "artists": [
+      {
+       "api_path": "/artists/1260461",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "id": 1260461,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jarred Nettle",
+       "url": "https://genius.com/artists/Jarred-nettle"
+      }
+     ]
+    },
+    {
+     "label": "Mixed And Mastered By",
+     "artists": [
+      {
+       "api_path": "/artists/1096417",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "id": 1096417,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1603906147",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Zach Tuch",
+       "url": "https://genius.com/artists/Zach-tuch"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 321054,
+    "annotator_login": "yungdirty",
+    "api_path": "/referents/18064216",
+    "classification": "needs_exegesis",
+    "fragment": "Still Life",
+    "id": 18064216,
+    "is_description": true,
+    "path": "/18064216/Ambleside-still-life/Still-life",
+    "range": {
+     "content": "Still Life"
+    },
+    "song_id": 4878811,
+    "url": "https://genius.com/18064216/Ambleside-still-life/Still-life",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4878811",
+     "client_timestamps": {
+      "updated_by_human_at": 1568835446,
+      "lyrics_updated_at": 1568835446
+     },
+     "context": "Ambleside",
+     "id": 4878811,
+     "image_url": "https://images.genius.com/71abe8fd42dc2e7e0ecbf7d21337c34e.640x640x1.jpg",
+     "link_title": "Still Life by\u00a0Ambleside",
+     "title": "Still Life",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-still-life-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18064216",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18064216,
+      "pinned": false,
+      "share_url": "https://genius.com/18064216",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18064216/Ambleside-still-life/Still-life",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/321054",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/00d72a2743d6490543304fd2c6d46452",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z9jefej51jo",
+         "human_readable_role_for_display": "Editor",
+         "id": 321054,
+         "iq": 1344726,
+         "login": "yungdirty",
+         "name": "yungdirty",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yungdirty",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=qgVn6_1Qkrs"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Verse 1]\nMaybe I dove further down this hole\nTo lose control\nChasing rainbows\nCathartic thoughts escaping\nCalloused below\nWitness the words\u2005erase\u2005me\n\n[Pre-Chorus]\nBury the difference\u2005in my sleep\nPray for the world\u2005to keep\n\n[Chorus]\nLost in disguise\nTaken for granted\nOpen your eyes\nBreak the enchantment\nStill life, still life\nDeeper you dive\n\n[Bridge]\nMountains don\u2019t run from the rain\nColour won't return to grey\nAntagonist taking shape\nBlood rushing to my brain\n\n[Chorus]\nLost in disguise\nTaken for granted\nOpen your eyes\nBreak the enchantment\n\n[Outro]\nLost in disguise\nYou fantasize\nOpen your eyes\nBefore you capsize\nBefore you capsize"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3115164",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3115164/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3115164' class='rg_embed_link' data-song-id='3115164'>Read <a href='https://genius.com/Ambleside-retrospect-annotated'>\u201cRetrospect\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3115164/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Retrospect by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "id": 3115164,
+   "lyrics_owner_id": 4239966,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-retrospect-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Retrospect",
+   "title_with_featured": "Retrospect",
+   "url": "https://genius.com/Ambleside-retrospect-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/349050",
+    "cover_art_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+    "full_title": "New Tide by Ambleside",
+    "id": 349050,
+    "name": "New Tide",
+    "url": "https://genius.com/albums/Ambleside/New-tide",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4239966,
+    "annotator_login": "illkarah",
+    "api_path": "/referents/11977055",
+    "classification": "needs_exegesis",
+    "fragment": "Retrospect",
+    "id": 11977055,
+    "is_description": true,
+    "path": "/11977055/Ambleside-retrospect/Retrospect",
+    "range": {
+     "content": "Retrospect"
+    },
+    "song_id": 3115164,
+    "url": "https://genius.com/11977055/Ambleside-retrospect/Retrospect",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3115164",
+     "client_timestamps": {
+      "updated_by_human_at": 1496840829,
+      "lyrics_updated_at": 1496840829
+     },
+     "context": "Ambleside",
+     "id": 3115164,
+     "image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+     "link_title": "Retrospect by\u00a0Ambleside",
+     "title": "Retrospect",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-retrospect-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11977055",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11977055,
+      "pinned": false,
+      "share_url": "https://genius.com/11977055",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11977055/Ambleside-retrospect/Retrospect",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4239966",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wu67sdzz8kc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4239966,
+         "iq": 111923,
+         "login": "illkarah",
+         "name": "illkarah",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/illkarah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=GD7WCEAHgVc"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "This small glimpse of light that used to be my life\nSo visible in this darkness burning bright\n\nI was weighed down by nothing\nBut i was weighed down by everything\n\nAn average morning converted me to light\nThe sound of that plane still roars inside\nI was no one to myself, no one to others\nI passed away without saying i love you to my mother\n\nI had so much to live for\nSo much room to grow\nPeople who adored me\nAnd a love filled home\n\nBut I was always blinded\nBlinded by myself\nAnd its hard to be reminded\nuntil the time left expires\n\nNo expression, No closure, no meaning..\nalone in a space where no one can hear me\nIm forced to look down at the people i took for granted\nStruggling, suffering.. They genuinely need me\n\nI had so much to live for\nSo much room to grow\nPeople who adored me\nAnd a love filled home\n\nBut I was always blinded\nBlinded by myself\nAnd its hard to be reminded\nuntil the time left expires\n\nAnd i keep asking myself\nWhere did i go wrong?\n\nNow im just space\nAnd I am nothing\nI am the air around you.\nAnd Im so sorry.."
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3115161",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3115161/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3115161' class='rg_embed_link' data-song-id='3115161'>Read <a href='https://genius.com/Ambleside-free-falling-annotated'>\u201cFree Falling\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3115161/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Free Falling by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "id": 3115161,
+   "lyrics_owner_id": 4239966,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-free-falling-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Free Falling",
+   "title_with_featured": "Free Falling",
+   "url": "https://genius.com/Ambleside-free-falling-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/349050",
+    "cover_art_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+    "full_title": "New Tide by Ambleside",
+    "id": 349050,
+    "name": "New Tide",
+    "url": "https://genius.com/albums/Ambleside/New-tide",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4239966,
+    "annotator_login": "illkarah",
+    "api_path": "/referents/11977045",
+    "classification": "needs_exegesis",
+    "fragment": "Free Falling",
+    "id": 11977045,
+    "is_description": true,
+    "path": "/11977045/Ambleside-free-falling/Free-falling",
+    "range": {
+     "content": "Free Falling"
+    },
+    "song_id": 3115161,
+    "url": "https://genius.com/11977045/Ambleside-free-falling/Free-falling",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3115161",
+     "client_timestamps": {
+      "updated_by_human_at": 1496840565,
+      "lyrics_updated_at": 1496840565
+     },
+     "context": "Ambleside",
+     "id": 3115161,
+     "image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+     "link_title": "Free Falling by\u00a0Ambleside",
+     "title": "Free Falling",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-free-falling-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11977045",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11977045,
+      "pinned": false,
+      "share_url": "https://genius.com/11977045",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11977045/Ambleside-free-falling/Free-falling",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4239966",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wu67sdzz8kc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4239966,
+         "iq": 111923,
+         "login": "illkarah",
+         "name": "illkarah",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/illkarah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=jFjPOih7jm8"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Free falling, Im spiralling down,\nTheres no more stops until i hit the ground\nI can see the surface., i can see the sky\nI can see the sun thats burning my eyes\nFree falling, Im spiralling down,\nTheres no more stops until i hit the ground\nIm laughing, im smiling, im questioning\nI know il soon open my eyes from this dream\nThe wind blows open pages\nAnd the world places pens\nFor free minds to embrace\nA start, a middle and an end\nTransparent thoughts and open minds\nAbsorbing space, absorbing time\nForcing the moments that il never forget\nFree falling, Im spiralling down,\nTheres no more stops until i hit the ground\nI can see the surface., i can see the sky\nI can see the sun thats burning my eyes\nFree falling, Im spiralling down,\nTheres no more stops until i hit the ground\nIm laughing, im smiling, im questioning\nI know il soon open my eyes from this dream\nWarm light shines through the window\nThe light for my new day\nTo lift my dreams into reality\nFree falling through my life\nFree falling my own way\nWhere i\u2019I land is where i\u2019l lay\nThe time til then is hard to say.\nWhen the wind is causing me to sway\nThrough my life, my own way\nMy dreams to reality\nI\u2019m Free falling, Im spiralling down,\nTheres no more stops until I hit the ground\nI can see the surface., i can see the sky\nI can see the sun thats burning my eyes\nFree falling, Im spiralling down,\nTheres no more stops until i hit the ground\nIm laughing, im smiling, im questioning\nI know il soon open my eyes from this dream \u2013 and il be free\nSo its that time of day\nWhen the sunset puts the earth to sleep\nThe world becomes quiet\nAnd our bodies become weak\nThe moonlight pulls the tide\nIt pulls my thoughts\nIt drags my reality, back into dreams.\nA cycle on repeat."
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3115156",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3115156/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3115156' class='rg_embed_link' data-song-id='3115156'>Read <a href='https://genius.com/Ambleside-letterbox-ross-annotated'>\u201cLetterbox Ross\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3115156/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Letterbox Ross by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "id": 3115156,
+   "lyrics_owner_id": 4239966,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-letterbox-ross-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Letterbox Ross",
+   "title_with_featured": "Letterbox Ross",
+   "url": "https://genius.com/Ambleside-letterbox-ross-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/349050",
+    "cover_art_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+    "full_title": "New Tide by Ambleside",
+    "id": 349050,
+    "name": "New Tide",
+    "url": "https://genius.com/albums/Ambleside/New-tide",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4239966,
+    "annotator_login": "illkarah",
+    "api_path": "/referents/11976991",
+    "classification": "needs_exegesis",
+    "fragment": "Letterbox Ross",
+    "id": 11976991,
+    "is_description": true,
+    "path": "/11976991/Ambleside-letterbox-ross/Letterbox-ross",
+    "range": {
+     "content": "Letterbox Ross"
+    },
+    "song_id": 3115156,
+    "url": "https://genius.com/11976991/Ambleside-letterbox-ross/Letterbox-ross",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3115156",
+     "client_timestamps": {
+      "updated_by_human_at": 1496839913,
+      "lyrics_updated_at": 1496839913
+     },
+     "context": "Ambleside",
+     "id": 3115156,
+     "image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+     "link_title": "Letterbox Ross by\u00a0Ambleside",
+     "title": "Letterbox Ross",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-letterbox-ross-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11976991",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11976991,
+      "pinned": false,
+      "share_url": "https://genius.com/11976991",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11976991/Ambleside-letterbox-ross/Letterbox-ross",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4239966",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wu67sdzz8kc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4239966,
+         "iq": 111923,
+         "login": "illkarah",
+         "name": "illkarah",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/illkarah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lwGcDX_lul4"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Theres no way to describe how vulnerable you are against the world\nfeeling cornered by these expectations\nno motivation, we keep tracing backwards\ngiving up and finding desperation fills our lungs\nbut we wont get lost, no we wont get lost\nAll it takes is one step forward\nYour path is your own foot steps\nYour future's in your hands\nThe signs to find your own way\nWill always be in front of you\nhere at the point of unknown possibility\nwill you choose to live your life, held back by barriers\nthe world around you is on your side\nthings can get better if you try, things will get better if you try.\nYour life, your choices\nYour future\u2019s in your hands\nSurround yourself with those that keep you in the state of mind\nthat living positive will make a change\nFollow the sound of my voice\ncan you block out the noise of every regretful choice?\nHere in the pure air, away from cold death stares\nlets move forward, stay on track\nbe strong, never looking back.."
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3115168",
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3115168/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3115168' class='rg_embed_link' data-song-id='3115168'>Read <a href='https://genius.com/Ambleside-weekend-beast-annotated'>\u201cWeekend Beast\u201d by Ambleside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3115168/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Weekend Beast by\u00a0Ambleside",
+   "header_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "id": 3115168,
+   "lyrics_owner_id": 4239966,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/Ambleside-weekend-beast-annotated",
+   "pyongs_count": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Weekend Beast",
+   "title_with_featured": "Weekend Beast",
+   "url": "https://genius.com/Ambleside-weekend-beast-annotated",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/349050",
+    "cover_art_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+    "full_title": "New Tide by Ambleside",
+    "id": 349050,
+    "name": "New Tide",
+    "url": "https://genius.com/albums/Ambleside/New-tide",
+    "artist": {
+     "api_path": "/artists/630166",
+     "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "id": 630166,
+     "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ambleside",
+     "url": "https://genius.com/artists/Ambleside"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4239966,
+    "annotator_login": "illkarah",
+    "api_path": "/referents/11977065",
+    "classification": "needs_exegesis",
+    "fragment": "Weekend Beast",
+    "id": 11977065,
+    "is_description": true,
+    "path": "/11977065/Ambleside-weekend-beast/Weekend-beast",
+    "range": {
+     "content": "Weekend Beast"
+    },
+    "song_id": 3115168,
+    "url": "https://genius.com/11977065/Ambleside-weekend-beast/Weekend-beast",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3115168",
+     "client_timestamps": {
+      "updated_by_human_at": 1496841129,
+      "lyrics_updated_at": 1496841129
+     },
+     "context": "Ambleside",
+     "id": 3115168,
+     "image_url": "https://images.genius.com/96a55793188f359f809bd4000d3d9c54.1000x1000x1.jpg",
+     "link_title": "Weekend Beast by\u00a0Ambleside",
+     "title": "Weekend Beast",
+     "type": "Song",
+     "url": "https://genius.com/Ambleside-weekend-beast-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11977065",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11977065,
+      "pinned": false,
+      "share_url": "https://genius.com/11977065",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11977065/Ambleside-weekend-beast/Weekend-beast",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4239966",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5skmalu30i2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wu67sdzz8kc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4239966,
+         "iq": 111923,
+         "login": "illkarah",
+         "name": "illkarah",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/illkarah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=gFF2qbQxnkU"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/630166",
+    "header_image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "id": 630166,
+    "image_url": "https://images.genius.com/82c5218ca4218eea63caf09e6fd88000.720x604x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ambleside",
+    "url": "https://genius.com/artists/Ambleside"
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I used to think that I was nothing, that I was wasting my time\nBut the truth is embracing your reflection\nAcceptance, our weakness, we can be stronger now\nI don\u2019t, I don\u2019t want to live in a world full of broken promises and fucking misery\nI don\u2019t, I don\u2019t want to be surrounded by those who bring me down\nI\u2019ll leave you all behind\nThis is serenity, this is my everything, this is my place to be\nI will, I will not leave until I have been my everything.\nThe truth is embracing your reflection\nAcceptance our weakness, we can be stronger now\nIt\u2019s time to stand up proud and be honest with myself\nI want to live, I want to breathe\nI used to think that I was nothing, that I was wasting my time\nBut the truth is embracing your reflection\nAcceptance, our weakness, I can be stronger now"
+  }
+ ]
+}
